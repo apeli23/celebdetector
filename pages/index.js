@@ -32,7 +32,7 @@ export default function Home() {
           <img ref={imageRef} src="https://res.cloudinary.com/dogjmmett/image/upload/v1655712984/caprio_bilnap.png" alt="sample" title="sample" />
         </div>
         <div className="column">
-          <h2>RESULT</h2><br />
+          <h2>result shows here</h2><br />
           {tags && <p>{tags}</p>}
         </div>
       </div>
